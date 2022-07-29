@@ -1,0 +1,11 @@
+.filter-block {
+  display: block;
+  margin: 30px;
+  text-align: center;
+}
+
+.select-filter, .input-filter, .button-submit {
+  margin: 10px;
+  padding: 5px;
+  width: auto;
+}
